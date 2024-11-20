@@ -3,7 +3,7 @@
 ### Tools
 - Jupyter Notebook
 - Scrapy
-- 
+  
 ### About the Dataset
 This dataset contains information on skincare products available in Malaysia, collected through web scraping from the shops website. The data includes product names, prices, ingredients, and other relevant details that offer insights into the Malaysian skincare market.
 
